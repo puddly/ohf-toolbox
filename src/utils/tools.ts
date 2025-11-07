@@ -22,16 +22,16 @@ export const tools: ToolDefinition[] = [
     url: '/vpe/',
   },
   {
-    title: 'Home Assistant Connect ZBT-1',
-    description: 'Update firmware for your Connect ZBT-1 adapter',
-    image: '/images/zbt1.jpg',
-    url: '/zbt1/',
-  },
-  {
     title: 'Home Assistant Connect ZBT-2',
     description: 'Update firmware for your Connect ZBT-2 adapter',
     image: '/images/zbt2.jpg',
     url: '/zbt2/',
+  },
+  {
+    title: 'Home Assistant Connect ZBT-1',
+    description: 'Update firmware for your Connect ZBT-1 adapter',
+    image: '/images/zbt1.jpg',
+    url: '/zbt1/',
   },
   {
     title: 'Bluetooth proxy',
