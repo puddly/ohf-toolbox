@@ -102,6 +102,8 @@ export default defineConfig({
         ),
         zbt1: resolve(__dirname, 'dist/zbt1/index.html'),
         zbt1Install: resolve(__dirname, 'dist/zbt1/install/index.html'),
+        zbt2: resolve(__dirname, 'dist/zbt2/index.html'),
+        zbt2Install: resolve(__dirname, 'dist/zbt2/install/index.html'),
         improv: resolve(__dirname, 'dist/improv.html'),
       },
     },
