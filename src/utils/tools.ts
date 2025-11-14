@@ -24,7 +24,7 @@ export const tools: ToolDefinition[] = [
   {
     title: 'Home Assistant Connect ZBT-2',
     description: 'Update firmware for your Connect ZBT-2 adapter',
-    image: '/images/zbt2.jpg',
+    image: '/images/zbt2.webp',
     url: '/zbt2/',
   },
   {
